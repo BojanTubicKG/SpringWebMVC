@@ -1,2 +1,2 @@
 # SpringWebMVC
-Spring - NetBeans - MVC -WebShop
+Spring - NetBeans - MVC -WebShop - JDBC
